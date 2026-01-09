@@ -304,8 +304,8 @@ class TestRealScenarios(unittest.TestCase):
 
 def sync_my_folders():
     """Sincronizza le cartelle configurate con output informativo per l'utente."""
-    source_folder = "/Users/andrea/Desktop/Cartella_principale" #Inserire percorso cartella principale
-    destination_folder = "/Users/andrea/Desktop/Cartella_di_destinazione" #Inserire percorso cartella di destinazione
+    source_folder = "/Users/andrear/Desktop/Cartella_principale" #Inserire percorso cartella principale
+    destination_folder = "/Users/andrear/Desktop/Cartella_di_destinazione" #Inserire percorso cartella di destinazione
 
     print(f"📁 Cartella sorgente: {source_folder}")
     print(f"📁 Cartella destinazione: {destination_folder}")
