@@ -1,4 +1,3 @@
-#Prova per GitHub
 import os
 import shutil
 import hashlib
